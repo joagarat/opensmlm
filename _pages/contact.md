@@ -10,9 +10,6 @@ version of the platform and want to share results?
 You can reach us directly or open an issue on the GitHub repository if you'd like
 to keep the discussion public.
 
-**General contact:**  
-[joagarat@gmail.com](mailto:joagarat@gmail.com)
-
 ---
 
 ## Team

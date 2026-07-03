@@ -42,7 +42,7 @@ Representative datasets acquired with the system, including calibration standard
 </figure>
 
 <figure style="margin-bottom: 2em;">
-  <figcaption style="font-weight: bold; margin-bottom: 0.5em;">Four-target imaging on neuronal cultures</figcaption>
+  <figcaption style="font-weight: bold; margin-bottom: 0.5em;">Four-target imaging on neuronal cultures.</figcaption>
   <img src="{{ '/assets/images/gallery/neuron-4color.jpg' | relative_url }}" alt="4-color neuronal culture imaging" style="width: 100%; height: auto; display: block;">
 </figure>
 

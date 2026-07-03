@@ -8,25 +8,25 @@ header:
 gallery_hardware:
   # 1. Commercial vs converted microscope
   - url: /assets/images/gallery/microscope-comparison.jpg
-    image_path: /assets/images/gallery/microscope-comparison-th.jpg
+    image_path: /assets/images/gallery/microscope-comparison.jpg
     alt: "Commercial microscope vs converted SMLM system"
     title: "From commercial microscope to SMLM platform"
 
   # 2. TIRF / HiLO module
   - url: /assets/images/gallery/tirf-hilo.jpg
-    image_path: /assets/images/gallery/tirf-hilo-th.jpg
+    image_path: /assets/images/gallery/tirf-hilo.jpg
     alt: "TIRF / HiLO module"
     title: "TIRF / HiLO illumination module"
 
   # 3. Focus lock module
   - url: /assets/images/gallery/focus-lock.jpg
-    image_path: /assets/images/gallery/focus-lock-th.jpg
+    image_path: /assets/images/gallery/focus-lock.jpg
     alt: "Focus lock module"
     title: "Focus lock module"
 
   # 4. 3D astigmatism module
   - url: /assets/images/gallery/astigmatism-3d.jpg
-    image_path: /assets/images/gallery/astigmatism-3d-th.jpg
+    image_path: /assets/images/gallery/astigmatism-3d.jpg
     alt: "3D astigmatism module"
     title: "3D imaging module (astigmatism-based)"
 

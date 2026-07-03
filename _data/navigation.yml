@@ -1,12 +1,10 @@
-# main links
+# Main menu (appears in the site header)
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: /
+  - title: "Step-by-Step Guide"
+    url: /step-by-step-guide/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Contact"
+    url: /contact/

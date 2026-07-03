@@ -18,7 +18,7 @@ to keep the discussion public.
 ## Team
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/images/people/joaquin.jpg" alt="Joaquin Garat" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="{{ '/assets/images/people/joaquin.jpg' | relative_url }}" alt="Joaquin Garat" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <strong>Joaquin Garat</strong><br>
     Departamento de Genómica, Instituto de Investigaciones Biológicas Clemente Estable, Uruguay<br>
@@ -27,7 +27,7 @@ to keep the discussion public.
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/images/people/sotelo.jpg" alt="José Sotelo-Silveira" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="{{ '/assets/images/people/sotelo.jpg' | relative_url }}" alt="José Sotelo-Silveira" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <strong>José Sotelo-Silveira</strong><br>
     Departamento de Genómica, Instituto de Investigaciones Biológicas Clemente Estable, Uruguay<br>
@@ -36,7 +36,7 @@ to keep the discussion public.
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/images/people/masullo.jpg" alt="Luciano Masullo" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="{{ '/assets/images/people/masullo.jpg' | relative_url }}" alt="Luciano Masullo" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <strong>Luciano Masullo</strong><br>
     Glycoscience Program, Institute of Biology and Experimental Medicine (IBYME), Argentina<br>
@@ -45,7 +45,7 @@ to keep the discussion public.
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/images/people/dipaolo.jpg" alt="Andrés Di Paolo" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="{{ '/assets/images/people/dipaolo.jpg' | relative_url }}" alt="Andrés Di Paolo" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <strong>Andrés Di Paolo</strong><br>
     Departamento de Histología y Embriología – Plataforma de Histología, Anatomía Patológica y Óptica de Superresolución, CENUR Litoral Norte, Uruguay<br>

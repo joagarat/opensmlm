@@ -1,43 +1,71 @@
 ---
+
 title: "Gallery"
 permalink: /gallery/
-excerpt: "Photos of the assembled microscope and images acquired with it."
+excerpt: "Hardware modules and representative super-resolution results."
 header:
-  teaser: /assets/images/teaser.jpg
+teaser: /assets/images/teaser.jpg
+
 gallery_hardware:
-  - url: /assets/images/gallery/hardware-01.jpg
-    image_path: /assets/images/gallery/hardware-01-th.jpg
-    alt: "Overview of the microscope"
-    title: "Overview of the assembled platform"
-  - url: /assets/images/gallery/hardware-02.jpg
-    image_path: /assets/images/gallery/hardware-02-th.jpg
-    alt: "Focus-lock module"
-    title: "Focus-lock module (IR)"
-  - url: /assets/images/gallery/hardware-03.jpg
-    image_path: /assets/images/gallery/hardware-03-th.jpg
-    alt: "Cylindrical lens cassette"
-    title: "Cylindrical lens cassette (3D astigmatic)"
+
+# 1. Commercial vs converted microscope
+
+* url: /assets/images/gallery/microscope-comparison.jpg
+  image_path: /assets/images/gallery/microscope-comparison-th.jpg
+  alt: "Commercial microscope vs converted SMLM system"
+  title: "From commercial microscope to SMLM platform"
+
+# 2. TIRF / HiLO module
+
+* url: /assets/images/gallery/tirf-hilo.jpg
+  image_path: /assets/images/gallery/tirf-hilo-th.jpg
+  alt: "TIRF / HiLO module"
+  title: "TIRF / HiLO illumination module"
+
+# 3. Focus lock module
+
+* url: /assets/images/gallery/focus-lock.jpg
+  image_path: /assets/images/gallery/focus-lock-th.jpg
+  alt: "Focus lock module"
+  title: "Focus lock module"
+
+# 4. 3D astigmatism module
+
+* url: /assets/images/gallery/astigmatism-3d.jpg
+  image_path: /assets/images/gallery/astigmatism-3d-th.jpg
+  alt: "3D astigmatism module"
+  title: "3D imaging module (astigmatism-based)"
+
 gallery_results:
-  - url: /assets/images/gallery/result-01.jpg
-    image_path: /assets/images/gallery/result-01-th.jpg
-    alt: "STORM image of a biological sample"
-    title: "STORM reconstruction"
-  - url: /assets/images/gallery/result-02.jpg
-    image_path: /assets/images/gallery/result-02-th.jpg
-    alt: "DNA-PAINT origami"
-    title: "DNA-origami calibration"
+
+# 5. DNA origami (large / highlight)
+
+* url: /assets/images/gallery/dna-origami.jpg
+  image_path: /assets/images/gallery/dna-origami.jpg
+  alt: "DNA origami grids and tetrahedrons"
+  title: "DNA origami calibration structures (2D grids and 3D tetrahedrons)"
+
+# 6. 4-color neuronal culture
+
+* url: /assets/images/gallery/neuron-4color.jpg
+  image_path: /assets/images/gallery/neuron-4color.jpg
+  alt: "4-color neuronal culture imaging"
+  title: "Four-color imaging (TOM20, Vimentin, Beta2Spectrin, NefL)"
+
 ---
 
 ## Hardware
 
-Photos of the assembled platform and its main modules.
+From a commercial fluorescence microscope to a fully functional single-molecule localization microscopy (SMLM) platform, including key optical modules.
 
-{% include gallery id="gallery_hardware" caption="Platform components." %}
+{% include gallery id="gallery_hardware" caption="Hardware modules and system transformation." %}
+
+---
 
 ## Results
 
-Super-resolution images acquired with the system.
+Representative datasets acquired with the system, including calibration standards and biological samples.
 
-{% include gallery id="gallery_results" caption="Reconstructions obtained with the platform." %}
+{% include gallery id="gallery_results" caption="Super-resolution reconstructions." %}
 
 ---

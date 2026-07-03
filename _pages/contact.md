@@ -27,7 +27,7 @@ to keep the discussion public.
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/opensmlm/assets/images/people/masullo.jpg" alt="José Sotelo-Silveira" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/opensmlm/assets/images/people/sotelo.jpg" alt="José Sotelo-Silveira" style="width:120px; height:120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <strong>José Sotelo-Silveira</strong><br>
     Departamento de Genómica, Instituto de Investigaciones Biológicas Clemente Estable, Uruguay<br>

@@ -34,7 +34,7 @@ From a commercial fluorescence microscope to a fully functional single-molecule 
 
 ## Results
 
-Representative datasets acquired with the system, including calibration standards and biological samples.
+Representative datasets acquired with the system, including calibration standards and biological samples
 
 <figure style="margin-bottom: 2em;">
   <figcaption style="font-weight: bold; margin-bottom: 0.5em;">DNA origami calibration structures (2D grids and 3D tetrahedrons)</figcaption>

@@ -41,11 +41,3 @@ Super-resolution images acquired with the system.
 {% include gallery id="gallery_results" caption="Reconstructions obtained with the platform." %}
 
 ---
-
-**How to add your own photos:**
-1. Upload the images to `/assets/images/gallery/` in the repo (ideally a large
-   version and a thumbnail `-th.jpg`, or use the same image for both fields if
-   you don't want to generate thumbnails).
-2. Add a new entry to the front matter above (`gallery_hardware` or
-   `gallery_results`, or create a new list), copying the format of the existing
-   entries.

@@ -22,12 +22,12 @@ From a commercial fluorescence microscope to a fully functional single-molecule 
 
 <figure style="margin-bottom: 2em;">
   <figcaption style="font-weight: bold; margin-bottom: 0.5em;">Focus lock module</figcaption>
-  <img src="/opensmlm/assets/images/gallery/focus-lock"  alt="Focus lock module" style="width: 100%; height: auto; display: block;">
+  <img src="/opensmlm/assets/images/gallery/focus-lock.jpg"  alt="Focus lock module" style="width: 100%; height: auto; display: block;">
 </figure>
 
 <figure style="margin-bottom: 2em;">
   <figcaption style="font-weight: bold; margin-bottom: 0.5em;">3D imaging module (astigmatism-based)</figcaption>
-  <img src="/opensmlm/assets/images/gallery/astigmatism-3d"  alt="3D astigmatism module" style="width: 100%; height: auto; display: block;">
+  <img src="/opensmlm/assets/images/gallery/astigmatism-3d.jpg"  alt="3D astigmatism module" style="width: 100%; height: auto; display: block;">
 </figure>
 
 ---

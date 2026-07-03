@@ -62,7 +62,7 @@ From a commercial fluorescence microscope to a fully functional single-molecule 
 
 ---
 
-## Results
+## Gallery
 
 Representative datasets acquired with the system, including calibration standards and biological samples.
 

@@ -1,4 +1,52 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+author_profile: false
+
+header:
+  overlay_image: /assets/images/teaser.jpg
+  overlay_filter: 0.5
+  caption: "Open-source SMLM platform"
+
+actions:
+  - label: "Step-by-Step Guide"
+    url: "/step-by-step-guide/"
+  - label: "View Gallery"
+    url: "/gallery/"
+  - label: "GitHub"
+    url: "https://github.com/joagarat/opensmlm"
+
+feature_row:
+  - image_path: /assets/images/guide.jpg
+    alt: "Step-by-step guide"
+    title: "Step-by-Step Guide"
+    excerpt: "Build and validate the system module by module, from optics to software."
+    url: "/step-by-step-guide/"
+    btn_label: "Start building"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/gallery.jpg
+    alt: "Gallery"
+    title: "Gallery"
+    excerpt: "Explore system performance, raw data, and super-resolution reconstructions."
+    url: "/gallery/"
+    btn_label: "View results"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/contact.jpg
+    alt: "Contact"
+    title: "Contact"
+    excerpt: "Get in touch for questions, support, or potential collaborations."
+    url: "/contact/"
+    btn_label: "Contact us"
+    btn_class: "btn--primary"
 ---
+
+## What is this?
+
+We present an open-source approach to convert a conventional fluorescence microscope into a high-performance single-molecule localization microscopy (SMLM) platform, achieving sub-10-nm localization precision.
+
+This website provides a step-by-step guide to replicate the system, validate each module, and adapt it to your own laboratory setup.
+
+---
+
+{% include feature_row %}
